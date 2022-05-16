@@ -24,7 +24,7 @@ def newSearch():
     print(ext)
     print("\nOr you can type a custom file extension.")
     extensao = input("File Extension: ")
-    gDork = "inurl: " + extensao + " + filetype: " + extensao + " intitle: " + pdfName
+    gDork = "inurl: " + extensao + " + filetype: " + extensao + " + intitle: " + pdfName
     PATH = "C:\Program Files (x86)\chromedriver.exe" #Chrome Driver Path (Change this to your new chromedriver directory if you are using a different path)
     driver = webdriver.Chrome(PATH)
 
