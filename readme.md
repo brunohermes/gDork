@@ -17,5 +17,11 @@ download chromedrivers, paste the contents of the zip file into "C:\Program File
 ## Screenshots
 
 ![File Name](Screenshots/1.jpg)
+Setting up the file name.
+
 ![File Extension](Screenshots/2.jpg)
+File Extension, for example: .pdf or .csv
+
+
 ![Results](Screenshots/3.jpg)
+Search Results (blurred for obvious reasons).
