@@ -3,6 +3,8 @@
 ## What is gDork?
 gDork is a python script that automates Google Dorks (Also known as Google Hacking).
 
+Basically you put a name of a file, person, document, and gDork will automatically search up with the correct google dorks.
+
 ## Usage
 
 To use this tool, you will need both Selenium and "chromedrivers", since it uses Google Chrome to make the dork search.
