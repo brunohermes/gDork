@@ -20,7 +20,7 @@ a8"    `Y88  88         88  a8"     "8a  88P'   "Y8  88 ,a8"
 def newSearch():
     pdfName = input("File Name: ")
     ext = ['pdf','txt','py','js','doc', 'xlsx', 'csv', 'xls', 'docx']
-    print("\nThese are the file extensions examples of file extensions: ")
+    print("\nExamples of file extensions: ")
     print(ext)
     print("\nOr you can type a custom file extension.")
     extensao = input("File Extension: ")
