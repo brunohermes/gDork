@@ -13,3 +13,9 @@ To use this tool, you will need both Selenium and "chromedrivers", since it uses
 ```
 ## To install Chrome Drivers: 
 download chromedrivers, paste the contents of the zip file into "C:\Program Files (x86)\chromedriver.exe", or simply modify the path on the python code.
+
+## Screenshots
+
+![File Name](Screenshots/1.jpg)
+![File Extension](Screenshots/2.jpg)
+![Results](Screenshots/3.jpg)
