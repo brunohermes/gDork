@@ -1,5 +1,9 @@
-# :desktop_computer: gDork is a python script that automates Google Dorks (Also known as Google Hacking).
+# :desktop_computer: gDork - Google Dorks Automation.
 
+## What is gDork?
+gDork is a python script that automates Google Dorks (Also known as Google Hacking).
+
+## Usage
 
 To use this tool, you will need both Selenium and "chromedrivers", since it uses Google Chrome to make the dork search.
 
